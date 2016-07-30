@@ -1,0 +1,14 @@
+{
+  "name": "node-internetbutton",
+  "version": "1.0.0",
+  "description": "Particle InternetButton example with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edsadr",
+  "license": "MIT",
+  "dependencies": {
+    "particle-api-js": "^5.3.0"
+  }
+}
